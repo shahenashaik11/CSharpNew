@@ -1,0 +1,4 @@
+D:\assignment\13NOV18\13NOV18\obj\Debug\netcoreapp2.1\13NOV18.csprojAssemblyReference.cache
+D:\assignment\13NOV18\13NOV18\obj\Debug\netcoreapp2.1\13NOV18.csproj.CoreCompileInputs.cache
+D:\assignment\13NOV18\13NOV18\obj\Debug\netcoreapp2.1\13NOV18.AssemblyInfoInputs.cache
+D:\assignment\13NOV18\13NOV18\obj\Debug\netcoreapp2.1\13NOV18.AssemblyInfo.cs
