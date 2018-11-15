@@ -1,0 +1,11 @@
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.csprojAssemblyReference.cache
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.csproj.CoreCompileInputs.cache
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.AssemblyInfoInputs.cache
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.AssemblyInfo.cs
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\bin\Debug\netcoreapp2.1\15nov2.deps.json
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\bin\Debug\netcoreapp2.1\15nov2.runtimeconfig.json
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\bin\Debug\netcoreapp2.1\15nov2.runtimeconfig.dev.json
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\bin\Debug\netcoreapp2.1\15nov2.dll
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\bin\Debug\netcoreapp2.1\15nov2.pdb
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.dll
+C:\Users\shahena.shaik\Desktop\GitHub\CSharpNew\Practice\15nov2\15nov2\obj\Debug\netcoreapp2.1\15nov2.pdb
