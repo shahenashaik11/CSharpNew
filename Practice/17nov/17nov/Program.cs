@@ -37,16 +37,7 @@ namespace _17nov
         {
             ArithematicOperations a = new ArithematicOperations();
             a.Division();
-            try
-            {
-
-                MyClass.Show();
-            }
-            catch (MyException ex)
-            {
-
-                Console.WriteLine(ex.Message);
-            }
+        
 
             
             Console.ReadLine();
